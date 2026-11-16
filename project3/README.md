@@ -110,4 +110,4 @@ Before 22 Oct I thought of data as a file you download and then work with, and t
 
 The producer, lander and flow are adapted from the class scripts (quakes_producer.py, quakes_lander.py and quakes_flow.py from Mon 02 Nov), the websocket connection and reconnect loop follow probe.py and the Session 1 worksheet, and SCHEMA, to_row(), stage(), entities() and four_numbers.py follow the Coinbase parts of the Session 2 and 3 worksheets. The AI drafted the producer, lander and flow changes, the burst mart and a draft of this README from my own numbers, and I checked everything by running each step myself, the raw count matched the topic total, the chaos card numbers matched the predictions, two flow runs gave the same four numbers and I checked the threshold against the per coin ratios before changing it.
 
-"AI was used to assist and walk through some parts of this project, it was also used to interpret parts that were ambiguous, it also helped with trouble shooting."
+## AI was used to assist and walk through some parts of this project, it was also used to interpret parts that were ambiguous, it also helped with trouble shooting.
