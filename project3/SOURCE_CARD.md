@@ -46,6 +46,7 @@ The first messages are not trades: one `subscriptions` reply, then one `last_mat
 ## 6. Research question (draft)
 - One question I could answer with time windows, a comparison, an anomaly or a join: WRITE YOURS HERE
 When BTC-USD bursts (a 1-minute trade count above 3× its 10-minute average), do the other coins burst in the same minute?
+
 ## 7. Self-check (checkpoint A)
 - [x] I ran the probe for this source today and messages arrived (own idea: it worked here, in class)
 - [x] The rate in section 3 is measured, not guessed
