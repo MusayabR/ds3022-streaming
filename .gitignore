@@ -1,0 +1,5 @@
+/data/
+/charts/
+*.duckdb
+.venv/
+.DS_Store
